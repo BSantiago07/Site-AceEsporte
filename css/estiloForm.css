@@ -1,0 +1,108 @@
+.mainCadastro {
+    margin-top: 40px;
+}
+
+p {
+    margin: 5px 0;
+}
+
+label p {
+    margin-left: 30px;
+}
+
+#lin1,
+#lin2,
+#lin3,
+#lin4 {
+    display: flex;
+    margin-bottom: 25px;
+}
+
+.primeiroInput p {
+    margin-left: 0;
+}
+
+#nomeCompleto {
+    width: 245px;
+}
+
+#cpf,
+#email {
+    width: 259.5px;
+}
+
+#qtdPatrocinador {
+    width: 65px;
+}
+
+#qtdAtletas {
+    width: 40px;
+}
+
+#cnpj {
+    width: 300px;
+}
+
+#titulo {
+    width: 300px;
+}
+
+#codigo {
+    width: 190.7px;
+}
+
+#olho {
+    width: 420px;
+}
+
+#noticia {
+    width: 970px;
+    height: 100px;
+}
+
+#clube {
+    width: 265px;
+}
+
+#telefone {
+    width: 220px;
+}
+
+#descricao {
+    width: 510px;
+}
+
+#cep {
+    width: 230px;
+}
+
+#linhaBotao {
+    margin-top: 25px;
+}
+
+.linhaTitle {
+    text-align: left;
+}
+
+#linhaBotao {
+    margin: auto;
+}
+
+input[type=submit] {
+    border: none;
+    text-decoration: none;
+    background-color: #006400;
+    border-radius: 5px;
+    color: white;
+    font-size: 13px;
+    padding: 12px 90px;
+    font-weight: bold;
+}
+
+input[type=submit]:hover {
+    transition: 0.3s;
+    background-color: #014101;
+}
+
+
+/* ------------------------------------------------------------- */
